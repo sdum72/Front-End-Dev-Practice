@@ -20,3 +20,6 @@ var investor = {
     },
   },
 };
+
+helloThis()
+child.ageTenYears()
