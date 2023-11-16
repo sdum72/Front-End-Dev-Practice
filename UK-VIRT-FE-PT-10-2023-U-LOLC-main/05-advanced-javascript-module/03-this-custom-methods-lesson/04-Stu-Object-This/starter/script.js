@@ -1,4 +1,4 @@
-console.log(this);
+console.log(this); // will log iwindow object in gobal context 
 
 function helloThis() {
   console.log('Inside this function, this is ' + this);
